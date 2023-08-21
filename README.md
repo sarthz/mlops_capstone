@@ -2,7 +2,7 @@
 
 ## Project name
 
-**KKbox streaming churn prediction**
+## KKbox streaming churn prediction**
 
 <img src="">
 
